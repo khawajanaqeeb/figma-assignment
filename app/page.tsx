@@ -1,94 +1,68 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+// app/page.tsx
+import Link from 'next/link';
+import './globals.css'; // Import your global CSS styles
 
 export default function Home() {
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol>
-          <li>
-            Get started by editing <code>app/page.tsx</code>.
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+    <div>
+      <header>
+        
+        <h1>Khawaja Naqeeb Uddin</h1>
+        <p> Ambitious  Web Developer</p>
+        <nav>
+          <ul>
+            <li><Link href="#about">About</Link></li>
+            <li><Link href="#skills">Skills</Link></li>
+            <li><Link href="#education">Education</Link></li>
+            <li><Link href="#experience">Experience</Link></li>
+            <li><Link href="#contact">Contact</Link></li>
+          </ul>
+        </nav>
+      </header>
 
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-            className={styles.secondary}
-          >
-            Read our docs
-          </a>
-        </div>
+      <main>
+        <section id="about">
+          <h2>About Me</h2>
+          <p>I'm an ambitious web developer eager to learn new things with a passion for building atractive,functional and user-friendly websites.</p>
+        </section>
+
+        <section id="skills">
+          <h2>Skills</h2>
+          <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+            <li>Problem Solving</li>
+            <li>Teamwork</li>
+          </ul>
+        </section>
+
+        <section id="education">
+          <h2>Education</h2>
+          <p>University of Karachi - Masters's in Economics</p>
+          <p>University of Karachi - Bachelor's Commerce</p>
+          <p>Board of Intermediate Karachi - Intermediate Science</p>
+          <p>Board of Secondary Education Karachi - Martriculation</p>
+        </section>
+
+        <section id="experience">
+          <h2>Experience</h2>
+          <p>Worked as Computer teacher for class 9th and 10th, taught basics of C++,HTML,CSS.</p>
+          <p>Worked in a computer sales and repair company named Computer Outlet , where performed hardware and software installation.</p>
+        </section>
+
+        <section id="contact">
+          <h2>Contact</h2>
+          <p>Email: naqeebkns@gmail.com</p>
+          <p>Phone: +923452435349</p>
+          <p>LinkedIn: <a href="https://www.linkedin.com/in/naqeeb-kns-75203a143/" target="_blank">LinkedIn</a></p>
+          <p>GitHub: <a href="https://github.com/khawajanaqeeb" target="_blank">GitHub</a></p>
+        </section>
       </main>
-      <footer className={styles.footer}>
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
+
+      <footer>
+        <p>© 2024 Khawaja Naqeeb Uddin</p>
       </footer>
     </div>
   );
