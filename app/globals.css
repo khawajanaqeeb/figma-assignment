@@ -9,11 +9,11 @@ body {
 
 header {
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   background-color: #7fb4ba;
   color: white;
 }
-
+ 
 nav ul {
   list-style-type: none;
   padding: 0;
@@ -25,6 +25,10 @@ nav ul {
 nav ul li {
   margin: 0 15px;
 }
+ .pic{
+  margin-right: 100%;
+  border-radius: 50%;
+ }
 
 nav ul li a {
   color: white;
@@ -52,6 +56,8 @@ ul {
   list-style-type: none;
   padding: 0;
 }
+
+
 
 footer {
   text-align: center;
