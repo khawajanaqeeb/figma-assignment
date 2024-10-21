@@ -1,4 +1,4 @@
-// app/page.tsx
+
 import Link from "next/link";
 import "./globals.css"; 
 import profile from "./public/n2.jpg";
