@@ -1,7 +1,7 @@
 
 import Link from "next/link";
 import "./globals.css"; 
-import profile from "./public/n2.jpg";
+import profile from "./public/n3.png";
 import Image from "next/image";
 
 export default function Home() {
@@ -47,7 +47,7 @@ export default function Home() {
         <section id="about">
           <h2>About Me</h2>
           <p>
-            I'm an ambitious web developer eager to learn new things with a
+            I am an ambitious web developer eager to learn new things with a
             passion for building atractive,functional and user-friendly
             websites.
           </p>
@@ -67,8 +67,8 @@ export default function Home() {
 
         <section id="education">
           <h2>Education</h2>
-          <p>University of Karachi - Masters's in Economics</p>
-          <p>University of Karachi - Bachelor's Commerce</p>
+          <p>University of Karachi - Masters in Economics</p>
+          <p>University of Karachi - Bachelors Commerce</p>
           <p>Board of Intermediate Karachi - Intermediate Science</p>
           <p>Board of Secondary Education Karachi - Martriculation</p>
         </section>
