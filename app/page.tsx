@@ -8,8 +8,7 @@ import Image from "next/image";
 export default function Home() {
   return (
 <div className="home">
-      
-        <nav>
+       <nav>
           <ul>
           <li><Link href="#freatured-works">Works</Link></li>
 
