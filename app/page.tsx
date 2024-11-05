@@ -104,7 +104,7 @@ export default function Home() {
                
               <div className="featured-section">
                     <div className="dd1">
-                      <div className="ddash">
+                      <div className="ddash"><br/><br/>
                       <h2>Designing Dashboards</h2>
                       </div>
                     
@@ -119,7 +119,7 @@ export default function Home() {
                     </div>
 
                     <div className="dd1">
-                      <div className="ddash">
+                      <div className="ddash"><br/><br/>
                       <h2>Designing Dashboards</h2>
                       </div>
                       <div className="dash">
@@ -133,7 +133,7 @@ export default function Home() {
                     </div>
 
                     <div className="dd1">
-                      <div className="ddash">
+                      <div className="ddash"><br/><br/><br/>
                       <h2>Designing Dashboards</h2>
                        </div>
                       <div className="dash">
