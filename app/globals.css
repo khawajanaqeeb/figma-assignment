@@ -4,7 +4,7 @@
   top: -84px;
   left: -543px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   background: #cfa6a61c;
 }
 nav{
@@ -15,7 +15,7 @@ nav{
   top: 66px;
   left: 1088px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   padding: 1rem;
   margin-left: 50%;
 }
@@ -41,7 +41,7 @@ height: 308px;
 margin-top: 10%;
 left: 463px;
 gap: 0px;
-opacity: 0px;
+/* opacity: 0px; */
 float: right; 
 margin-right: 27%;
 
@@ -52,7 +52,7 @@ height: 124px;
 margin-top: 10%;
 left: 231px;
 gap: 0px;
-opacity: 0px;
+/* opacity: 0px; */
 font-family: Heebo;
 font-size: 47px;
 font-weight: 900;
@@ -66,7 +66,7 @@ text-align: left;
   margin-top: 5%;
   left: 231px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   font-family: Heebo;
   font-size: 16px;
   font-weight: 400;
@@ -79,7 +79,7 @@ text-align: left;
   height: 50px;
   gap: 0px;
   border-radius: 2px 0px 0px 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   background: #F98585;
   box-shadow: 0px 4px 4px 0px #4141418A;
 }
@@ -88,7 +88,7 @@ button{
 margin-top: 14px;
 margin-left: 20px;
 gap: 0px;
-opacity: 0px;
+/* opacity: 0px; */
 font-family: Heebo;
 font-size: 18px;
 font-weight: 500;
@@ -100,7 +100,7 @@ background: #F98585;
   width: 1440px;
   height: 502px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   background: var(--secoundry, #F4E2E2);
 }
 .rp{
@@ -109,7 +109,7 @@ height: 10px;
 margin-left: 11%;
 margin-top: 0%;
 gap: 0px;
-opacity: 0px;
+/* opacity: 0px; */
 font-family: Heebo;
 font-size: 14px;
 font-weight: 500;
@@ -123,7 +123,7 @@ height: 32px;
 margin-left: 80%;
 margin-top: 0%;
 gap: 0px;
-opacity: 0px;
+/* opacity: 0px; */
 font-family: Heebo;
 font-size: 20px;
 font-weight: 500;
@@ -144,7 +144,7 @@ color: #F98585;
   top: 742px;
   left: 238px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   background: #FFFFFF;
 }
 .post2{
@@ -153,7 +153,7 @@ color: #F98585;
   top: 78px;
   left: 763px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   background: #FFFFFF;
 }
 
@@ -172,7 +172,7 @@ color: #F98585;
   top: 128px;
   left: 35.44px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   font-family: Heebo;
   font-size: 18px;
   font-weight: 400;
@@ -189,7 +189,7 @@ color: #F98585;
   top: 128px;
   left: 196.47px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   font-family: Heebo;
   font-size: 18px;
   font-weight: 400;
@@ -208,7 +208,7 @@ color: #F98585;
   margin-top: 21%;
   margin-left: 25px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   font-family: Heebo;
   font-size: 16px;
   font-weight: 400;
@@ -222,7 +222,7 @@ color: #F98585;
   margin-top: 21%;
   margin-left: 25px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   font-family: Heebo;
   font-size: 16px;
   font-weight: 400;
@@ -236,7 +236,7 @@ color: #F98585;
   top: 1246px;
   margin-left: 10%;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   font-family: Heebo;
   font-size: 20px;
   font-weight: 500;
@@ -252,7 +252,7 @@ top: 1310px;
 left: 237px;
 gap: 0px;
 border-radius: 6px 0px 0px 0px;
-opacity: 0px;
+/* opacity: 0px; */
 
 }
 .featured2{
@@ -262,7 +262,7 @@ opacity: 0px;
   left: 237px;
   gap: 0px;
   border-radius: 6px 0px 0px 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   
 }
 .featured3{
@@ -272,7 +272,7 @@ top: 1892px;
 left: 237px;
 gap: 0px;
 border-radius: 6px 0px 0px 0px;
-opacity: 0px;
+/* opacity: 0px; */
 
 }
 
@@ -283,7 +283,7 @@ opacity: 0px;
   margin-left: 12%;
   gap: 0px;
   border-radius: 5px 0px 0px 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   
 
 }
@@ -293,7 +293,7 @@ opacity: 0px;
   top: 20px;
   left: 20px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   
 }
 .dd2{
@@ -302,7 +302,7 @@ opacity: 0px;
   top: 312.1px;
   left: 20px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   
 }
 .dd3{
@@ -311,7 +311,7 @@ opacity: 0px;
   top: 604.2px;
   left: 20px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   
 }
 .ddash{
@@ -320,7 +320,7 @@ height: 37px;
 top: 51.9px;
 left: 16.46px;
 gap: 0px;
-opacity: 0px;
+/* opacity: 0px; */
 font-family: Heebo;
 font-size: 15px;
 font-weight: 700;
@@ -342,7 +342,7 @@ footer{
 height: 243px;
 top: 2239px;
 gap: 0px;
-opacity: 0px;
+/* opacity: 0px; */
 }
 .end{
   width: 354px;
@@ -350,7 +350,7 @@ height: 32px;
 top: 2354.67px;
 margin-left: 40%;
 gap: 0px;
-opacity: 0px;
+/* opacity: 0px; */
 font-family: Heebo;
 font-size: 22px;
 font-weight: 500;
@@ -365,7 +365,7 @@ text-align: left;
   top: 1246px;
   margin-left: 12%;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   }
 
 #m1{
@@ -375,7 +375,7 @@ text-align: left;
   left: 3.46px;
   gap: 0px;
   border-radius: 50px;
-  opacity: 0px;
+  /* opacity: 0px; */
   color: white;
   background-color: #F98585;
   font-family: Heebo;
@@ -392,7 +392,7 @@ text-align: center;
   top: 52.1px;
   left: 92.46px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   font-family: Heebo;
   font-size: 18px;
   font-weight: 400;
@@ -407,7 +407,7 @@ height: 170px;
 top: 102.1px;
 left: 1.46px;
 gap: 0px;
-opacity: 0px;
+/* opacity: 0px; */
 font-family: Heebo;
 font-size: 18px;
 font-weight: 300;
@@ -427,7 +427,7 @@ text-align: left;
   top: 2288px;
   left: 578px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   
 }
 .twit{
@@ -436,7 +436,7 @@ height: 30px;
 top: 2288px;
 margin-left: 5%;
 gap: 0px;
-opacity: 0px;
+/* opacity: 0px; */
 
   
 }
@@ -448,7 +448,7 @@ opacity: 0px;
   top: 2288px;
   left: 827px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   
 }
 .inst{
@@ -458,6 +458,6 @@ opacity: 0px;
   top: 2288px;
   left: 659px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   
 }
